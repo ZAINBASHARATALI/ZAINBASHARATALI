@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programing Solutions for Flutter Apps & Embedded Systems
 - 🌱 I’m currently learning Flutter Framwork & Stm32 Microcontrollers
 - 💞️ I’m looking to collaborate on Peace in Programing
-- 📫 How to reach me https://www.linkedin.com/in/zain-basharat-ali-82716b1a3
+- 📫 How to reach me https://www.linkedin.com/in/zainbasharatali
 
 <!---
 ZAINBASHARATALI/ZAINBASHARATALI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
